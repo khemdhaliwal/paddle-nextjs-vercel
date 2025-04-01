@@ -20,7 +20,7 @@ export const PricingTier: Tier[] = [
   },
   {
     name: 'Growth',
-    id: 'growth',
+    id: 'pro',
     icon: '/assets/icons/price-tiers/basic-icon.svg',
     description: 'Enhanced design tools for scaling teams who need more flexibility.',
     features: ['Integrations', 'Unlimited workspaces', 'Advanced editing tools', 'Everything in Starter'],
@@ -29,7 +29,7 @@ export const PricingTier: Tier[] = [
   },
   {
     name: 'Pro',
-    id: 'pro',
+    id: 'advanced',
     icon: '/assets/icons/price-tiers/pro-icon.svg',
     description: 'Powerful tools designed for extensive collaboration and customization.',
     features: [
