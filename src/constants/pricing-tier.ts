@@ -28,8 +28,8 @@ export const PricingTier: Tier[] = [
     priceId: { month: 'pri_01jqrvtkk1cdhczgxmytw3tnbt', year: 'pri_01jqrwk2xbjjt253wq0rd06d34' },
   },
   {
-    name: 'Advanced',
-    id: 'advanced',
+    name: 'Pro',
+    id: 'pro',
     icon: '/assets/icons/price-tiers/pro-icon.svg',
     description: 'Powerful tools designed for extensive collaboration and customization.',
     features: [
